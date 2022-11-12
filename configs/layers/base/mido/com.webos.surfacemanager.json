@@ -1,5 +1,6 @@
 {
     "compositorGeometry": "1080x1920+0+0r0s1",
+    "devicePixelRatio": "2.6",
     "displayConfig": [
         { 
             "machine": "mido"
