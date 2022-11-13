@@ -1,5 +1,6 @@
 {
     "compositorGeometry": "1080x2340+0+0r0s1",
+    "devicePixelRatio": "1.9",
     "displayConfig": [
         { 
             "machine": "yggdrasil"
